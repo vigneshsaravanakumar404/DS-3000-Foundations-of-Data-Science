@@ -18,7 +18,7 @@
 | Category                    | Information |
 | :-------------------------- | :---------- |
 | **Semester**                | Fall 2025   |
-| **Grade Earned**            | A |
+| **Grade Earned**            | 95.31% (A) |
 
 
 ---
